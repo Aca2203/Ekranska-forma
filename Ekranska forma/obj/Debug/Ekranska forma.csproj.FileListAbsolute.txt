@@ -1,0 +1,10 @@
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Ekranska forma domaci 19.12.2021\Ekranska forma\bin\Debug\Ekranska forma.exe.config
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Ekranska forma domaci 19.12.2021\Ekranska forma\bin\Debug\Ekranska forma.exe
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Ekranska forma domaci 19.12.2021\Ekranska forma\bin\Debug\Ekranska forma.pdb
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Ekranska forma domaci 19.12.2021\Ekranska forma\obj\Debug\Ekranska forma.csprojAssemblyReference.cache
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Ekranska forma domaci 19.12.2021\Ekranska forma\obj\Debug\Ekranska_forma.Form1.resources
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Ekranska forma domaci 19.12.2021\Ekranska forma\obj\Debug\Ekranska_forma.Properties.Resources.resources
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Ekranska forma domaci 19.12.2021\Ekranska forma\obj\Debug\Ekranska forma.csproj.GenerateResource.cache
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Ekranska forma domaci 19.12.2021\Ekranska forma\obj\Debug\Ekranska forma.csproj.CoreCompileInputs.cache
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Ekranska forma domaci 19.12.2021\Ekranska forma\obj\Debug\Ekranska forma.exe
+C:\Users\Sale\Desktop\Аца\Учење на даљину\Четврта година\Базе података\Ekranska forma domaci 19.12.2021\Ekranska forma\obj\Debug\Ekranska forma.pdb
